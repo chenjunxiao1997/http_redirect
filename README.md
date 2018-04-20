@@ -1,0 +1,2 @@
+# http_redirect
+在Linux上建立一个tcp连接，当浏览器连接到Linux的ip和端口时，网页将重定向到百度的主页
